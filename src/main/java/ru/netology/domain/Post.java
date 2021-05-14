@@ -1,6 +1,6 @@
 package ru.netology.domain;
 
-public class PostInfo {
+public class Post {
     private int id;
     private int OwnerId;
     private String imageUrl;
