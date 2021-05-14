@@ -29,7 +29,7 @@ public class Post {
     private LikesInfo likesInfo;
     private PinInfo pinInfo;
     private AuthorInfo authorInfo;
-    private RepostsInfo repostsInfo;
+    private RepostInfo repostsInfo;
     private ViewsInfo viewsInfo;
     private PostSourceInfo postSourceInfo;
 
